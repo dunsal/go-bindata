@@ -1,4 +1,4 @@
-A fork of `go-bindata/go-bindata` which removes capitalized initials in error messages.
+A fork of https://github.com/go-bindata/go-bindata which removes capitalized initials in error messages.
 
 
 
