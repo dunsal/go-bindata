@@ -1,3 +1,7 @@
+A forked version of `go-bindata/go-bindata` which removes capitalized initials in error messages.
+
+
+
 ## bindata
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-bindata/bindata)](https://goreportcard.com/report/github.com/go-bindata/bindata)
